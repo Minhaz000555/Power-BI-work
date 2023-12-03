@@ -5,3 +5,6 @@
 
 Liverpool stats visualised 22/23
 ![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/295709b6-88a0-4425-9a9f-5289fd198e8b)
+
+Liverpool improved stats visualised 23/24 
+![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/3214c258-0f95-4610-8074-113059bb0137)
