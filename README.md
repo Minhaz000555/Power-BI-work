@@ -8,3 +8,6 @@ Liverpool stats visualised 22/23
 
 Liverpool improved stats visualised 23/24 
 ![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/3214c258-0f95-4610-8074-113059bb0137)
+
+World population
+![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/3d49b611-eea5-48e3-92c3-6ba3fc753f7d)
