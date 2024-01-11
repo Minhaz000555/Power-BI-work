@@ -11,3 +11,6 @@ Liverpool improved stats visualised 23/24
 
 World population
 ![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/3d49b611-eea5-48e3-92c3-6ba3fc753f7d)
+
+Office Supply Sales
+![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/ffe82f9b-388e-48c8-a7cc-2d8e0cc602ec)
