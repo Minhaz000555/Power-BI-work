@@ -14,3 +14,7 @@ World population
 
 Office Supply Sales
 ![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/20263020-9ff4-4c65-acd2-f91d3d13ad61)
+
+Food Sales
+![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/79a93fed-8150-4767-ba89-87ceeec31c9f)
+
