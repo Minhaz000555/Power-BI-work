@@ -1,6 +1,6 @@
 # Power-BI-work
 Worplace Injuries 
-![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/718a9025-0958-4f07-b79b-eac6bc59b9b7)
+![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/38d5fdaf-ac74-4378-95df-89271bda3383)
 
 Food Sales
 ![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/79a93fed-8150-4767-ba89-87ceeec31c9f)
