@@ -1,5 +1,5 @@
 # Power-BI-work
-Worplace Injuries 
+Workplace Injuries 
 ![image](https://github.com/Minhaz000555/Power-BI-work/assets/128938912/38d5fdaf-ac74-4378-95df-89271bda3383)
 
 Food Sales
